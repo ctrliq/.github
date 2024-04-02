@@ -7,6 +7,8 @@ At CIQ, we support a community of innovators, builders, and leaders by offering 
 ## Our Offerings
 
 - **Enterprise Linux Platform:** A secure, reliable, and performant foundation for your software infrastructure. From the base operating system to secure delivery of bits, CIQ provides support and services tailored to your needs.
+  - [CIQ Long-Term Support (LTS) for Rocky Linux](https://github.com/ciq-rocky-lts)
+  - [CIQ FIPS for Rocky Linux](https://github.com/ciq-rocky-fips)
 
 - **IT Automation with Ascender:** Simplify complex tasks, ensure system reliability, enable scalability, and reclaim valuable time for growth and creativity.
 
